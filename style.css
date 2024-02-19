@@ -51,3 +51,23 @@
     font-weight: 600;
     margin-left: 3em;
 }
+
+.seconddiv {
+    background-color: brown;
+}
+
+.flexdiv {
+    display: flex;
+}
+
+.firstitemflex{
+    width: 50%;
+    text-align: center;
+background-color: blue;
+}
+
+.seconditemflex {
+    width: 50%;
+    text-align: center;
+    background-color: blueviolet;
+}
